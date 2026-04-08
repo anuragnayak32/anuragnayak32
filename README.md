@@ -46,9 +46,10 @@ Worked on responsive UI and reusable components
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragnayak32&show_icons=true&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragnayak32&show_icons=true&theme=default" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=anuragnayak32&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=anuragnayak32&theme=default" />
 </p>
 
 ---
