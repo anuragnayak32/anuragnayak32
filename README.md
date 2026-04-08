@@ -47,14 +47,14 @@ Worked on responsive UI and reusable components
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragnayak32&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Contact
 Email: anayak2059@gmail.com  
-LinkedIn: Add your link  
+LinkedIn: https://www.linkedin.com/in/anurag-nayak-909a41258/ 
 
 ---
 
