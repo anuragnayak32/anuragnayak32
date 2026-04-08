@@ -19,6 +19,7 @@ I am a Computer Science student at SRM University AP with a strong interest in s
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,git,linux" />
 </p>
+
 ---
 
 ### 🚀 Projects
@@ -32,7 +33,6 @@ MERN stack app with chatbot and appointment system
 Huffman Coding with 60–70% compression  
 
 ---
-
 ### 📄 Research
 Hybrid CNN-Transformer Model for Brain Tumor Classification (IEEE, OTCON 2025)
 
