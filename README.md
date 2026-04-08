@@ -46,10 +46,11 @@ Worked on responsive UI and reusable components
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragnayak32&theme=default" />
+</p>
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragnayak32&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=anuragnayak32&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=anuragnayak32" />
 </p>
 
 ---
