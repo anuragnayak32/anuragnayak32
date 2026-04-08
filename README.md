@@ -17,9 +17,8 @@ I am a Computer Science student at SRM University AP with a strong interest in s
 
 ### 🛠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,git,linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragnayak32&show_icons=true&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🚀 Projects
